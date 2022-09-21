@@ -1123,6 +1123,16 @@ ul.slides li {
 		margin-top: 65px;
 }
 }
+@media screen and (min-width:414px) {
+	.scrollto {
+		padding: 95px 0px 0px 0px;
+	}
+
+	.hero h1 {
+		font-size: 69px;
+		line-height: 80px;
+		margin-top: 65px;
+}
 /* 480px (WVGA - Low End Windows Phone) */
 @media screen and (max-width:480px) {
 	.wrapper {
